@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:BESNIER;Sébastien;;;
+FN:Sébastien BESNIER
+TITLE:Président
+ORG:phare28
+TEL;TYPE=WORK,VOICE:+33689223293
+EMAIL;TYPE=WORK:sebastien@xls-optronic.com
+URL:https://www.phare28.org
+END:VCARD

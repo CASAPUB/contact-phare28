@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:CRÈVECOEUR;Anne;;;
+FN:Anne CRÈVECOEUR
+TITLE:Assistante de direction
+ORG:phare28
+TEL;TYPE=WORK,VOICE:+33648385921
+EMAIL;TYPE=WORK:a.crevecoeur@phare28.com
+URL:https://www.phare28.org
+END:VCARD

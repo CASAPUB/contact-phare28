@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:NICOLAS;Thoréane;;;
+FN:Thoréane NICOLAS
+TITLE:Chargée de Projets
+ORG:phare28
+TEL;TYPE=WORK,VOICE:+33612778584
+EMAIL;TYPE=WORK:t.nicolas@phare28.com
+URL:https://www.phare28.org
+END:VCARD
